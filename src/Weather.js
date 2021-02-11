@@ -48,7 +48,7 @@ export default function Weather({lat, lng, locationError}) {
       } else {
     return (
         <>
-       <h3>Weather on your location</h3>
+       <h3>Weather in your location</h3>
        <div className="border-dark border width">
        <p>{temp} C&#176;</p>
        <p>{speed} m/s {direction}</p>
