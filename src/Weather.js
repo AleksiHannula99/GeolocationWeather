@@ -56,5 +56,5 @@ export default function Weather({lat, lng, locationError}) {
        </div>
        </>
     )
-    }
+}
 }
