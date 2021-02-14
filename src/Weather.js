@@ -1,5 +1,4 @@
 import React, { useState, useEffect } from 'react'
-import App from './App';
 
 
     const API_URL = "https://api.openweathermap.org/data/2.5/weather?";
